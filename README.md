@@ -1,5 +1,7 @@
 ***** Hi there 👋
 
-This is wareesha nasir a software engineering student. 🔭 I’m currently working on blood donation website in php. 🌱 I’m currently learning JS react and
+📓This is wareesha nasir a software engineering student. 
+🌱 I’m currently learning JS react.
+💻 Working as a web developer
 👯 I’m also looking to collaborate on different projects :)
 
